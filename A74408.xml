@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act enabling the Lords Commissioners for custody of the Great-Seal, to issue commissions of delegates in cases of pretended marriages.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74408</idno>
+            <idno type="STC">Thomason E1061_36</idno>
+            <idno type="STC">ESTC R209290</idno>
+            <idno type="EEBO-CITATION">99868174</idno>
+            <idno type="PROQUEST">99868174</idno>
+            <idno type="VID">169085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169085)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act enabling the Lords Commissioners for custody of the Great-Seal, to issue commissions of delegates in cases of pretended marriages.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. 1283-1286.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and Iohn Field, Printers to the Parliament of England,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650 [i.e. 1651]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>With an order to print dated 14 Jan. 1650.</note>
+                  <note>Signatures: 10B-10B2. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>Last word of first line of text: "Parliament"; first word of line below initial: "and"; last word of last full line on page: "and".</note>
+                  <note>Annotation on Thomason copy: "14 January 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1283" facs="tcp:169085:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ACT Enabling the Lords Commiſsioners for Cuſtody of the Great-Seal, to iſſue Commiſsions of Delegates In Caſes of Pretended MARRIAGES.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Parliament hath been enformed, That <hi>Jane Puckering,</hi> (Daughter and Heir of Sir <hi>Thomas Puckering</hi> Knight and Baronet, deceaſed) was againſt her will ſeized upon in <hi>Greenwich</hi>-Park, and carried over Sea to <hi>Dunkirk</hi> and <hi>Newport,</hi> and other parts in <hi>Flanders,</hi> by <hi>Joſeph Welch</hi> and
+<pb n="1284" facs="tcp:169085:2"/>
+               <!-- PDF PAGE 38 -->
+his Agents and Complices; and words wreſted from her by the ſaid <hi>Welch</hi> and his Agents, by Threats and Menaces by him and them wicked<g ref="char:EOLhyphen"/>ly uſed to her while ſhe was in their power; Vpon pretence and colour whereof, the ſaid <hi>Welch</hi> did publiſh in <hi>Flanders</hi> and elſwhere, That he was married to the ſaid <hi>Jane,</hi> and that ſhe was his Wife; to her extreme Damage and Hin<g ref="char:EOLhyphen"/>drance: The Parliament being willing that the whole matter be duly Examined, and Right done according to the Truth and Merit of the Caſe, Do Enact, and be it Enacted by this pre<g ref="char:EOLhyphen"/>ſent Parliament, That the Lords Commiſsio<g ref="char:EOLhyphen"/>ners for the Great-Seal of <hi>England</hi> for the time being, ſhall and may, and are hereby Enabled to Grant one or more Commiſsions under the Great-Seal, to ſuch diſcreet and able perſons as they ſhall think fit; which ſaid Commiſsioners or any three or more of them, ſhall have full Power and Authority to ſend out Summons to convene the ſaid <hi>Joſeph Welch,</hi> and ſuch others as they ſhall finde meet, before them, at the Suit of the ſaid <hi>Jane Puckering;</hi> and to proceed againſt him as well in caſe he or they ſhall make default being duly ſummoned, as where he or they ſhall appear; and admit the Libels, Allegations and Proofs upon Oath upon the Merits of the ſaid Cauſe on behalf of the ſaid <hi>Jane Puckering:</hi> And upon conſideration thereof, and of the Al<g ref="char:EOLhyphen"/>legations, Defences, Pleadings and Proofs upon Oath of the ſaid <hi>Joſeph Welch,</hi> if he ſhall appear, and think fit to alledge or plead, or make any Proofs on his behalf; or otherwiſe upon his not appearing, withdrawing, or not pleading, Then in his default to aſsign the Cauſe to Sen<g ref="char:EOLhyphen"/>tence and Iudgement; And upon full and de<g ref="char:EOLhyphen"/>liberate weighing of the whole Matter, and
+<pb n="1285" facs="tcp:169085:2"/>
+               <!-- PDF PAGE 38 -->
+what Proofs ſhall be made in the ſaid Cauſe, to Hear, and definitively to Adjudge, Sentence and Determine the ſame, for the Annulling and making void the ſaid pretended Marriage, as the Right in that caſe ſhall require, and to give their final Sentence and Iudgement upon the premiſes.</p>
+            <p>And be it further Enacted, That if any Wo<g ref="char:EOLhyphen"/>man hath been or ſhall be by force ſeized on or carried away againſt her will; or hath or ſhall have words wreſted from her, either in this Na<g ref="char:EOLhyphen"/>tion or beyond the Seas, whereupon a Marri<g ref="char:EOLhyphen"/>age with any perſon is or ſhall be pretended; In all ſuch caſes, upon complaint made to the Lords Commiſsioners for the Great-Seal of <hi>England</hi> for the time being on behalf of ſuch Woman, the ſaid Lords Commiſsioners ſhall and may, and are hereby authorized and required to Grant like Commiſsions to ſuch diſcreet and able perſons as they ſhall think fit to appoint, to ſend out Summons, and convene the perſons before them: And whether the ſaid Defendants ap<g ref="char:EOLhyphen"/>pear, or withdraw themſelves and ſtand in con<g ref="char:EOLhyphen"/>tempt, To proceed and admit the Libels, Al<g ref="char:EOLhyphen"/>legations and Proofs upon Oath upon the Me<g ref="char:EOLhyphen"/>rits of the Cauſe on behalf of ſuch Woman; and to Hear, and definitively Determine the ſaid matter, either for the Affirming, or Annulling and making void the ſaid pretended Marriage, as the Right in that caſe ſhall require; and to give their final Sentence and Iudgement there<g ref="char:EOLhyphen"/>upon: Provided, That this Act ſhall not ex<g ref="char:EOLhyphen"/>tend to the diminiſhing or alteration of the Sta<g ref="char:EOLhyphen"/>tutes of <hi>3 Hen. 7.</hi> Entituled, <hi>The Penalty of carry<g ref="char:EOLhyphen"/>ing a Woman away againſt her will that hath Lands or Goods;</hi> or of the Statute of <hi>39 Eliz.</hi> Entituled,
+<pb n="1286" facs="tcp:169085:3"/>
+               <!-- PDF PAGE 39 -->
+               <hi>He that taketh away a Woman againſt her will that hath Lands or Goods, or is Heir Apparent to her An<g ref="char:EOLhyphen"/>ceſtors, ſhall loſe his Clergy;</hi> or to any other Act or Law now in being for the puniſhment of ſuch Offender or Offenders; But they and every of them be and remain in full force and effect, to all intents and purpoſes againſt him or them, as if this Act had never been made.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 14 Ianuarii, 1650.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>Iohn Field,</hi> Printers to the Parliament of <hi>England,</hi> 1650.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
